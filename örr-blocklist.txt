@@ -34,3 +34,17 @@
 ||you-fm.de^$important
 ||mdrjump.de^$important
 ||sputnik.de^$important
+||n-joy.de^$important
+||bremeneins.de^$important
+||bremenzwei.de^$important
+||bremennext.de^$important
+||bremenvier.de^$important
+||antennebrandenburg.de^$important
+||rbb888.de^$important
+||fritz.de^$important
+||radioeins.de^$important
+||inforadio.de^$important
+||unserding.de^$important
+||swr3.de^$important
+||dasding.de^$important
+||wdrmaus.de^$important
