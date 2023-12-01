@@ -22,3 +22,6 @@
 ||phoenix.de^$important
 ||deutschlandfunkkultur.de^$important
 ||deutschlandfunknova.de^$important
+||hr1.de^$important
+||hr2.de^$important
+||hr3.de^$important
