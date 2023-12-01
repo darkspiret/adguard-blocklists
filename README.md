@@ -1,17 +1,17 @@
 # adguard-blocklists
 Adguard Blocklists
 
-Sammlung selbst ersteller Blocklisten für Avguard-Home.
+Sammlung selbst ersteller Blocklisten für Adguard-Home.
 
 örr-blocklist.txt:
 
-Ziel: Alle Webseiten deutscher öffentlich rechtlicher Sender via eigenem Adguard-Home-Server blocken.
+Ziel: Alle Webseiten deutscher öffentlich-rechtlicher Sender via eigenem Adguard-Home-Server blocken.
 
 Link: https://raw.githubusercontent.com/darkspiret/adguard-blocklists/main/%C3%B6rr-blocklist.txt
 
-Anleitung: Hinzufügen der Liste zu Avguard:
+Anleitung: Hinzufügen der Liste zu Adguard:
 
-1) In das Webinterface von Avguard einloggen
+1) In das Webinterface von Adguard einloggen
 2) Unter Filter/Sperrlisten Sperrliste hinzufügen klicken
 3) Eigene Sperrliste hinzufügen
 4) ![grafik](https://github.com/darkspiret/adguard-blocklists/assets/150554246/91eeeceb-927f-47ea-925c-2e743fd7fecd)
