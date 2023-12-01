@@ -26,3 +26,11 @@
 ||hr2.de^$important
 ||hr3.de^$important
 ||hr4.de^$important
+||br-klassik.de^$important
+||daserste.de^$important
+||hr-fernsehen.de^$important
+||rbb-online.de^$important
+||hr-inforadio.de^$important
+||you-fm.de^$important
+||mdrjump.de^$important
+||sputnik.de^$important
