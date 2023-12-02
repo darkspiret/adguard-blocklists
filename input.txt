@@ -2114,3 +2114,4 @@ download.www.arte.tv
 www-secure.arte.tv
 scobel.tv
 www.scobel.tv
+ard-text.de
