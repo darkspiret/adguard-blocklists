@@ -20,3 +20,5 @@ Anleitung: Hinzufügen der Liste zu Adguard:
 7) Speichern
 
 Hinweis: Wurden Seiten im Borwser vorher aufgerufen, dauert es gegebenenfalls etwas bis der Block greift, dazu muss der lokale Browsercache ablaufen sowie ggf. der lokale DNS-Cache.
+
+Herzlichen Dank auch an https://schneegans.de/online-blockade/ für die Liste.
