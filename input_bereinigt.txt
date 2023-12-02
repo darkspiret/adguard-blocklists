@@ -452,3 +452,4 @@ funk.net
 ard.pl
 arte.tv
 scobel.tv
+ard-text.de
