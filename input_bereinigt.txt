@@ -1,4 +1,3 @@
-domains
 ard-audiothek.app
 ard-mediathek.app
 ard-player.app
