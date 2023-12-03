@@ -18,6 +18,7 @@ Anleitung: Hinzufügen der Liste zu Adguard:
 5) Name: ÖRR Blocklist
 6) Link: https://raw.githubusercontent.com/darkspiret/adguard-blocklists/main/%C3%B6rr-blocklist.txt
 7) Speichern
+8) Die Liste wird automatisch durch AdGuard abgerufen und aktualisiert.
 
 Hinweis: Wurden Seiten im Borwser vorher aufgerufen, dauert es gegebenenfalls etwas bis der Block greift, dazu muss der lokale Browsercache ablaufen sowie ggf. der lokale DNS-Cache.
 
