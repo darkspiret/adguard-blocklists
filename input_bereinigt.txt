@@ -453,3 +453,4 @@ ard.pl
 arte.tv
 scobel.tv
 ard-text.de
+ard-zdf-foerderpreis.de
