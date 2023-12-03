@@ -2115,3 +2115,4 @@ www-secure.arte.tv
 scobel.tv
 www.scobel.tv
 ard-text.de
+ard-zdf-foerderpreis.de
