@@ -1,4 +1,5 @@
 ||youtube.com/api/stats/qoe?
+||google.com/log?$redirect=nooptext
 /log_event?
 /youtubei/v*/player?key=$replace=/\"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,//,domain=youtubekids.com|youtube-nocookie.com|youtube.com|~tv.youtube.com
 /youtubei/v*/player?key=$replace=/\"adSlots.*?\}\]\}\}\]\,//,domain=youtubekids.com|youtube-nocookie.com|youtube.com
